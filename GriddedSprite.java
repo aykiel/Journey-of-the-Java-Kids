@@ -8,7 +8,7 @@ public class GriddedSprite extends Sprite {
 	private int SPRITE_WIDTH;
 	private int SPRITE_HEIGHT;
 
-	private int x;
+	private int x; 
 	private int y;
 
 	private int width;
